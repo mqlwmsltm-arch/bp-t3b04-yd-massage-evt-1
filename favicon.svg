@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>여의도 마사지 이벤트</title>
+  <rect width="64" height="64" rx="16" fill="hsl(305 55% 25%)"/>
+  <g transform="rotate(0 32 32)"><g fill="none" stroke="hsl(305 24% 96%)" stroke-width="6" stroke-linecap="round"><path d="M32 14a18 18 0 0 1 18 18"/><path d="M32 50a18 18 0 0 1-18-18"/></g><path d="M50 32a18 18 0 0 1-18 18" fill="none" stroke="hsl(117 68% 69%)" stroke-width="6" stroke-linecap="round"/></g>
+</svg>

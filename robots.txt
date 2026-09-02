@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yeouido-body-care.node-link.shop/sitemap.xml
+Sitemap: https://yeouido-body-care.node-link.shop/sitemap-pages.xml
